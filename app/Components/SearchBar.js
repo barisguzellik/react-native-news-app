@@ -28,7 +28,7 @@ export default class SearchBar extends Component{
                     Actions.news({query:this.state.changedText});
                 }}
                 autoFocus
-                placeholder="Aramak için bir şeyler yaz..."
+                placeholder="Search..."
                 placeholderTextColor="#ccc"
                 style={styles.text}
                  />
