@@ -1,0 +1,30 @@
+[
+    {
+        "key":"",
+        "value":"Güncel"
+    },
+    {
+        "key":"business",
+        "value":"Ekonomi"
+    },
+    {
+        "key":"entertainment",
+        "value":"Eğlence"
+    },
+    {
+        "key":"health",
+        "value":"Sağlık"
+    },
+    {
+        "key":"science",
+        "value":"Bilim"
+    },
+    {
+        "key":"sports",
+        "value":"Spor"
+    },
+    {
+        "key":"technology",
+        "value":"Teknoloji"
+    }
+]
