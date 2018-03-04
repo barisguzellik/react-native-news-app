@@ -22,7 +22,7 @@ export default class App extends Component {
           
           <Scene key="news"
           component={News}
-          title="Güncel"
+          title="Top"
           initial
           />
           
@@ -33,13 +33,13 @@ export default class App extends Component {
 
           <Scene key="categoryModal"
             component={Category}
-            title="Kategori Seç"
+            title="Categories"
             hideNavBar={false}
           />
 
             <Scene key="webView"
             component={webView}
-            title="Kaynak..."
+            title="Source..."
             hideNavBar={false}
           />
 
