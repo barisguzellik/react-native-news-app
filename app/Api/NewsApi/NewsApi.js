@@ -1,6 +1,6 @@
 export class NewsApi{
     static apiConfig={
-        apiKey:'fbf32d970e2444e1bd5b9702e73dc6d9',
+        apiKey:'YOUR_API_KEY',
         apiBaseUrl:'https://newsapi.org/v2/',
     };
 
