@@ -1,30 +1,30 @@
 [
     {
         "key":"",
-        "value":"Güncel"
+        "value":"Top"
     },
     {
         "key":"business",
-        "value":"Ekonomi"
+        "value":"Business"
     },
     {
         "key":"entertainment",
-        "value":"Eğlence"
+        "value":"Entertainment"
     },
     {
         "key":"health",
-        "value":"Sağlık"
+        "value":"Health"
     },
     {
         "key":"science",
-        "value":"Bilim"
+        "value":"Science"
     },
     {
         "key":"sports",
-        "value":"Spor"
+        "value":"Sports"
     },
     {
         "key":"technology",
-        "value":"Teknoloji"
+        "value":"Technology"
     }
 ]
