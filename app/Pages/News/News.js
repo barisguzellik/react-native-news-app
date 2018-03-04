@@ -87,10 +87,10 @@ export default class News extends Component{
                 });
 
                 if(Platform.OS=='android'){
-                   ToastAndroid.show("Lütfen internet bağlantınızı kontrol ediniz. Code:" + err.toString(),2000);
+                   ToastAndroid.show("Code:" + err.toString(),2000);
                 }
 
-                //When network error redirect to WebView
+                
                 //Actions.webView({'externalSource':'http://google.com','sourceTitle':'Google'});
                 
             });
