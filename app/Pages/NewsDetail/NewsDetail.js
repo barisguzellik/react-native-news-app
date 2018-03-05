@@ -85,7 +85,7 @@ export default class NewsDetail extends Component{
                         Actions.webView({'externalSource':this.state.dataSource.url,'sourceTitle':this.state.dataSource.author})
                     }}>
                         <Text style={Style.Style.url}>
-                            <Icon name='link' size={15} color='#fff' />  Kaynağı Gör
+                            <Icon name='link' size={15} color='#fff' />  Details
                         </Text>
                     </TouchableHighlight>
                     
