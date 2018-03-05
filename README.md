@@ -1,6 +1,6 @@
 # react-native-news-app
 
-React-Native news app with NewsApi.org services.
+React-Native news app with the NewsApi.org services.
 
 ![Screen](https://raw.githubusercontent.com/barisguzellik/react-native-news-app/master/_screenshot/001.JPG)
 
